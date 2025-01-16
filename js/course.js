@@ -196,7 +196,7 @@ var courseUnits = [
           },
           {
             id: "ITM 3062",
-            name: "Audio Production Technology",
+            name: "Audio Production Techniques",
             type: "m",
           },
           {
